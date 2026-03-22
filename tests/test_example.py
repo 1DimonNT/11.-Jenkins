@@ -32,10 +32,6 @@ def test_fail7():
 
 @allure.feature("Примеры тестов")
 @allure.story("Успешные тесты")
-def test_pass():
-    pass
-
-@allure.story("Успешные тесты")
 def test_pass1():
     pass
 
